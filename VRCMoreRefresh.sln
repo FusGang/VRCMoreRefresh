@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRCMoreRefresh", "VRCMoreRefresh.csproj", "{D313CF6C-7DF8-4391-A917-1A6A18E69CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D313CF6C-7DF8-4391-A917-1A6A18E69CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D313CF6C-7DF8-4391-A917-1A6A18E69CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D313CF6C-7DF8-4391-A917-1A6A18E69CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D313CF6C-7DF8-4391-A917-1A6A18E69CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F920A0-7D38-411B-9337-96F11BDF10AC}
+	EndGlobalSection
+EndGlobal
